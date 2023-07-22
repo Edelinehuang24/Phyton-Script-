@@ -1,0 +1,2 @@
+# Phyton-Script-
+Basic codes 
